@@ -22,11 +22,13 @@ python3 feedback_display.py
 
 ## Gebruikte technologieën
 
-- **Arduino Uno** met IR break beam sensoren
+- **Arduino Uno** met
+- IR break beam sensoren
+- Breadbord
+- Jump wire (m2m) en (m2f)
 - **Python 3** met:
   - `tkinter` (voor GUI)
   - `pyserial` (voor seriële communicatie)
-  - `Pillow` (voor het laden van het Fontys-logo)
 
 ## Structuur van de code
 
