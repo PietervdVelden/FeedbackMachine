@@ -22,7 +22,7 @@ python3 feedback_display.py
 
 ## Gebruikte technologieën
 
-- **Arduino Uno**
+- **Arduino Uno** met:
 - IR break beam sensoren
 - Breadbord
 - Jump wire (m2m) en (m2f)
