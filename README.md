@@ -22,10 +22,12 @@ python3 feedback_display.py
 
 ## Gebruikte technologieën
 
-- **Arduino Uno** met
+- **Arduino Uno**
 - IR break beam sensoren
 - Breadbord
 - Jump wire (m2m) en (m2f)
+
+
 - **Python 3** met:
   - `tkinter` (voor GUI)
   - `pyserial` (voor seriële communicatie)
