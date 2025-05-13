@@ -9,7 +9,7 @@ Deze interactieve installatie combineert fysiek stemmen met digitale visualisati
 ## Installatie
 
 1. Sluit de Arduino aan via USB
-2. Upload de juiste code via de Arduino IDE (zie `arduino_score_counter.ino`)
+2. Upload de juiste code via de Arduino IDE (zie `sketch_may6a.ino`)
 3. Zorg dat Python 3 is geïnstalleerd op je systeem
 4. Installeer de benodigde libraries:
 ```bash
